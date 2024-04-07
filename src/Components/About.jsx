@@ -24,19 +24,21 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am a Data Science student studying at D.Y.Patil College of Engineering & Technology,Kolhapur.I am passionate about leveraging data analytics to drive informed decisions and create meaningful impact. ";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Data Science",
+  "UI/UX Design",
+  "Flutter",
+  "Open Source Contributor",
+  "Python",
+  "JAVA",
+  "Cybersecurity",
+  "AWS",
 ];
 
 /**
@@ -45,7 +47,8 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "
+I am a passionate goal-getter, thrill seeker, and idea executor currently pursuing a BTech in Computer Science with a specialization in Data Science, alongside being a Microsoft Certified Data Analyst and a Microsoft Student Ambassador. With a diverse skill set, I excel as a front-end developer proficient in HTML, CSS, JavaScript, and Flutter, while also demonstrating expertise in back-end development using C, Python, and Java.My advanced data analysis capabilities encompass tools such as Power BI, Tableau, and Advanced Excel. I am deeply driven by the potential of data analytics to drive informed decisions and create meaningful impact across various domains.";
 
 const About = () => {
   return (
