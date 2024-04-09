@@ -31,29 +31,42 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Conversational language understanding model",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "The Azure AI Language conversational language understanding service (CLU) enables you to train a model that apps can use to extract meaning from natural language.",
+    url: "https://github.com/simeenpathan/conversational-language-understanding-model",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Open source contribution in Hacktoberfest 2023",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Contributed in Hacktoberfest 2023 using JAVA.",
+    url: "https://github.com/simeenpathan/Hactoberfest2023",
   },
   {
-    title: "My Resume Site",
+    title: "Wine quality Detection",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "AI-driven wine quality detection system using machine learning algorithms to assess and classify wine quality based on chemical properties.",
+    url: "",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Bank Database Management using SQL",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Efficient bank database management system utilizing SQL for secure and organized data storage and retrieval.",
+    url: "https://www.linkedin.com/posts/simeen-pathan-1a2b85210_sql-mysql-greatlearning-activity-7060463146460733440-QlaS?utm_source=share&utm_medium=member_desktop",
   },
+   {
+    title: "Analyze text with Azure AI Language",
+    description:
+      "The Azure AI Language service enables you to create intelligent apps and services that extract semantic information from text.",
+    url: "https://learn.microsoft.com/en-us/users/simeenpathan-0213/achievements/print/3XDZJBQH",
+  },
+   {
+    title: "Question answering solutions with Azure AI Language",
+    description:
+      "The question answering capability of the Azure AI Language service makes it easy to build applications in which users ask questions using natural language and receive appropriate answers.",
+    url: "https://learn.microsoft.com/en-us/users/simeenpathan-0213/achievements/print/UFDH7NC3",
+  },
+  
 ];
 
 const Portfolio = () => {
